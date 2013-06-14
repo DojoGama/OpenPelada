@@ -1,0 +1,4 @@
+OpenPelada
+==========
+
+Social soccer matches.
